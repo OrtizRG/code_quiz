@@ -6,8 +6,8 @@ This is a quiz application using HTML, CSS, and Javascript. This application emp
 
 This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. Or, download the sources files to use this as a template.
 
-* [GitHub Repository]()
-* [Deployed GitHub IO]()
+* [GitHub Repository](https://github.com/OrtizRG/code_quiz)
+* [Deployed GitHub IO](https://ortizrg.github.io/code_quiz/)
 
 
 ### User Story
@@ -24,7 +24,7 @@ SO THAT I can gauge my progress compared to my peers
 
 ## Authors
 
-* Reyna Ortiz - *Initial work* - [Git Hub Profile]()
+* Reyna Ortiz - *Initial work* - [Git Hub Profile](https://github.com/OrtizRG)
 * UC Berkeley Extension Bootcamp - Web APIs Challenge: Code Quiz
 
 ## Acknowledgments
