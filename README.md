@@ -24,7 +24,7 @@ SO THAT I can gauge my progress compared to my peers
 
 ## Authors
 
-* Reyna Ortiz - *Initial work* - [Git Hub Profile](https://github.com/OrtizRG)
+* Reyna Ortiz - [Git Hub Profile](https://github.com/OrtizRG)
 * UC Berkeley Extension Bootcamp - Web APIs Challenge: Code Quiz
 
 ## Acknowledgments
